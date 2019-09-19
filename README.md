@@ -13,6 +13,7 @@ Some edits are needed to make this script work:
 3. Add your postman token on line 11
 
 NOTES:
+  
   The message must be pinned and be the most recent pinned comment
   
   It must have at least one reaction
