@@ -11,3 +11,8 @@ Some edits are needed to make this script work:
 1. Add your channel's ID to the querystring on line 4
 2. Add your API token on line 7
 3. Add your postman token on line 11
+
+NOTES:
+The message must be pinned and be the most recent pinned comment
+It must have at least one reaction
+
