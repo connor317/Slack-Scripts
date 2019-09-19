@@ -2,6 +2,7 @@
 Scripts for making slack easier to use as admins
 
 Attendance.py
+
 This script was originally created to collect attendance for meetings.  We used reactions to a message to see who all was at the meeting.
 The script will output all of the names of who was at the meeting and a total of how many people were at the meeting.  
 It does check for unique users, so if a user did react with multiple different reactions then they will still only show once.  
